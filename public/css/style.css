@@ -1,0 +1,7 @@
+#error-message {
+    color:red
+}
+
+#location,#weather-description,#temperature,#chance-of-rain {
+    color:green
+}
